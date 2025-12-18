@@ -6,7 +6,6 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## Introduction
@@ -36,8 +35,8 @@ cd `django-tailwind-blog`
 ```
 3. Create and activate a new virtual environment:
 ```
-python -m venv env
-source env/bin/activate
+python -m venv venv
+source venv/bin/activate
 ```
 4. Install the project dependencies:
 ```
@@ -98,13 +97,13 @@ python manage.py runserver
 - `Custom 404 Pages`: Custom error pages that display when a user navigates to a non-existent page or encounters an error.
 
 ## Website Screenshots
-![127 0 0 1_8000_about](https://user-images.githubusercontent.com/106135144/218676693-b433a723-0569-4a5a-91e2-d2330659233d.png)
+![127 0 0 1_8000_about](image.png)
 
-![127 0 0 1_8000_contact](https://user-images.githubusercontent.com/106135144/218676709-3924f790-32db-46f3-a1b5-bf1907506751.png)
+![127 0 0 1_8000_contact](image-1.png)
 
-![127 0 0 1_8000_blog](https://user-images.githubusercontent.com/106135144/218676733-bc2313e9-9721-4f4b-9fd8-ab7cfa939221.png)
+![127 0 0 1_8000_blog](image-2.png)
 
-![127 0 0 1_8000_projects](https://user-images.githubusercontent.com/106135144/218676756-3770e70e-149b-48ae-af50-44d1ee43aed6.png)
+![127 0 0 1_8000_projects](image-3.png)
 
 ![127 0 0 1_8000_projectsk](https://user-images.githubusercontent.com/106135144/218676780-62e72dd7-d2e4-4ef9-9b2b-aea25abf625d.png)
 
